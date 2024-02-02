@@ -55,7 +55,7 @@ As mentioned before, this lab is all about targeting the idea of `Pure Component
    }
 
    ```
-
+<!-- Paste here -->
 2. Similarly, console.log(`This is Pure Component`), inside `PureCounterComponent.jsx` file.
 
 You will see your console, in the similar manner as shown below:
